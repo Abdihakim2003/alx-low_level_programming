@@ -1,1 +1,1 @@
-This is for the nested loop directory
+0x02-functions_nested_loops
